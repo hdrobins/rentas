@@ -5,6 +5,8 @@
 --  DDL for Table CM_ACCT_ORD_STG
 --------------------------------------------------------
 
+-- Version inicial
+
   CREATE TABLE "INTEGRADOR"."CM_ACCT_ORD_STG" 
    (	"CM_STG_UP_ID" CHAR(10 BYTE), 
 	"ACCT_ID" CHAR(10 BYTE)
